@@ -1,3 +1,6 @@
+# TodoApp
+
+![](./galeria/TodoApp.PNG)
 
 
 ## Reducer
